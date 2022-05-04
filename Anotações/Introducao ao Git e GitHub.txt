@@ -1,0 +1,40 @@
+COMANDOS GIT
+
+WINDOWS
+
+CD		Navegar pasta acima
+CD..		Retroceder uma pasta
+CD /		Retroceder até o diretório C
+DIR		Listar pastas
+CLS		Limpar tela
+TAB		Completar nome das pastas
+MKDIR		Criar uma pasta
+ECHO		Criar um arquivo txt  (Ex: echo hello >hello.txt)
+DEL		Deletar arquivos de uma pasta
+RMDIR /s/q	Deletar pastas e arquivos
+
+LINUX
+
+CD		Navegar entre pastas
+CD..		Retroceder uma pasta
+CD /		Retroceder até o diretório C
+LS		Listar pastas
+CLEAR		Limpar tela
+MKDIR		Criar uma pasta
+ECHO		Criar um arquivo txt  (Ex: echo hello >hello.txt)
+RM - rf	Deletar pastas e arquivos
+Mv		Remover arquivos
+
+-------------------------------------
+
+OUTROS COMANDOS
+Git init					Iniciar repositorio
+Git add * ou git add nomArquivo	Mover arquivos
+Git commit -m “texto”			Criar commit
+Git status					Monitorar o status do arquivo
+Git remote -v				Endereço do repositorio
+Git push origin master			Subir arquivo para github
+Git pull origin master			Trazer arquivo do github pra maquina
+Git clone (http://...)			Clonar repositório
+
+
